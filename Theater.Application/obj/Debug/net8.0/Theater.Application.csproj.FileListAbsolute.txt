@@ -1,0 +1,12 @@
+C:\repos\Theater\Theater.Application\bin\Debug\net8.0\Theater.Application.deps.json
+C:\repos\Theater\Theater.Application\bin\Debug\net8.0\Theater.Application.dll
+C:\repos\Theater\Theater.Application\bin\Debug\net8.0\Theater.Application.pdb
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.csproj.AssemblyReference.cache
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.AssemblyInfoInputs.cache
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.AssemblyInfo.cs
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.csproj.CoreCompileInputs.cache
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.dll
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\refint\Theater.Application.dll
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\Theater.Application.pdb
+C:\repos\Theater\Theater.Application\obj\Debug\net8.0\ref\Theater.Application.dll

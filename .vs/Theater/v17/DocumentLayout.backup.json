@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\Theater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\workcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\workcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|c:\\repos\\theater\\theater.test\\personneltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|solutionrelative:theater.test\\personneltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|c:\\repos\\theater\\theater.test\\theatercontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|solutionrelative:theater.test\\theatercontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\infrastructure\\theatercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\infrastructure\\theatercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\expirecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\expirecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\audition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\audition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|c:\\repos\\theater\\theater.test\\performancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|solutionrelative:theater.test\\performancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|c:\\repos\\theater\\theater.test\\auditiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C332B4-1FD0-4F81-8C70-C1BB45847683}|Theater.Test\\Theater.Test.csproj|solutionrelative:theater.test\\auditiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\personnelrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\personnelrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|c:\\repos\\theater\\theater.application\\model\\secondcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05843E73-EA90-4531-9CA9-40BD4A34B34C}|Theater.Application\\Theater.Application.csproj|solutionrelative:theater.application\\model\\secondcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditionTest.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Test\\AuditionTest.cs",
+              "RelativeDocumentMoniker": "Theater.Test\\AuditionTest.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Test\\AuditionTest.cs",
+              "RelativeToolTip": "Theater.Test\\AuditionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:15:03.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheaterContextTest.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Test\\TheaterContextTest.cs",
+              "RelativeDocumentMoniker": "Theater.Test\\TheaterContextTest.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Test\\TheaterContextTest.cs",
+              "RelativeToolTip": "Theater.Test\\TheaterContextTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:13:49.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SecondCast.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\SecondCast.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\SecondCast.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\SecondCast.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\SecondCast.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:36:17.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonnelRole.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\PersonnelRole.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\PersonnelRole.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\PersonnelRole.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\PersonnelRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:01:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateRange.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\DateRange.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\DateRange.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\DateRange.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\DateRange.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:00:25.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerformanceTest.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Test\\PerformanceTest.cs",
+              "RelativeDocumentMoniker": "Theater.Test\\PerformanceTest.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Test\\PerformanceTest.cs",
+              "RelativeToolTip": "Theater.Test\\PerformanceTest.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv4YAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:14:50.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpireContract.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\ExpireContract.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\ExpireContract.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\ExpireContract.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\ExpireContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:42:33.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkContract.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\WorkContract.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\WorkContract.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\WorkContract.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\WorkContract.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:42:33.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonnelTest.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Test\\PersonnelTest.cs",
+              "RelativeDocumentMoniker": "Theater.Test\\PersonnelTest.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Test\\PersonnelTest.cs",
+              "RelativeToolTip": "Theater.Test\\PersonnelTest.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:25:55.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\Personnel.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\Personnel.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\Personnel.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\Personnel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:42:32.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cast.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\Cast.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\Cast.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\Cast.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\Cast.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:42:32.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Audition.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\Audition.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\Audition.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\Audition.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\Audition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:42:32.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Model\\Performance.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Model\\Performance.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Model\\Performance.cs",
+              "RelativeToolTip": "Theater.Application\\Model\\Performance.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:42:31.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheaterContext.cs",
+              "DocumentMoniker": "C:\\repos\\Theater\\Theater.Application\\Infrastructure\\TheaterContext.cs",
+              "RelativeDocumentMoniker": "Theater.Application\\Infrastructure\\TheaterContext.cs",
+              "ToolTip": "C:\\repos\\Theater\\Theater.Application\\Infrastructure\\TheaterContext.cs",
+              "RelativeToolTip": "Theater.Application\\Infrastructure\\TheaterContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:39:25.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
